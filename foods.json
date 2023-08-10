@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "دیزی",
+    "category_name": "خوراک",
+    "category_id": 1,
+    "price": "۱۳۷٬۰۰۰",
+    "cooker": "مامان نفس",
+    "rate": "۴٫۶۴",
+    "sell": "۵",
+    "img": "https://mamanpaz.netlify.app/img/Foods/kh1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "دلمه فلفل، گوجه و بادمجان",
+    "category_name": "خوراک",
+    "category_id": 1,
+    "price": "۱۰۸٬۵۰۰",
+    "cooker": "مامان سها",
+    "rate": "۴٫۴۵",
+    "sell": "۳",
+    "img": "https://mamanpaz.netlify.app/img/Foods/kh2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "دلمه کلم",
+    "category_name": "خوراک",
+    "category_id": 1,
+    "price": "۹۸٬۰۰۰",
+    "cooker": "مامان نفس",
+    "rate": "۴٫۳۶",
+    "sell": "۴",
+    "img": "https://mamanpaz.netlify.app/img/Foods/kh4.jpg"
+  },
+  {
+    "id": 4,
+    "name": "خوراک سبزیجات بخار پز",
+    "category_name": "خوراک",
+    "category_id": 1,
+    "price": "۶۵٬۰۰۰ ",
+    "cooker": "مامان نفس",
+    "rate": "۴٫۹",
+    "sell": "۵",
+    "img": "https://mamanpaz.netlify.app/img/Foods/kh3.jpg"
+  },
+  {
+    "id": 5,
+    "name": "چلو خورش قورمه سبزی ",
+    "category_name": "خورش",
+    "category_id": 2,
+    "price": "۱۶۰٬۰۰۰ ",
+    "cooker": "مامان نف  آرشید",
+    "rate": "۴٫۵۹",
+    "sell": "۵",
+    "img": "https://mamanpaz.netlify.app/img/Foods/%D9%82%D9%88%D8%B1%D9%85%D9%87-%D8%B3%D8%A8%D8%B2%DB%8C.jpg"
+  },
+  {
+    "id": 6,
+    "name": "شله زرد",
+    "category_name": "دسر",
+    "category_id": 3,
+    "price": "۶۰٬۰۰۰ ",
+    "cooker": "مامان نف  عهدیه",
+    "rate": "۱٫۰۳",
+    "sell": "۰",
+    "img": "https://mamanpaz.netlify.app/img/Foods/%D8%B4%D9%84%D9%87-%D8%B2%D8%B1%D8%AF.jpg"
+  },
+  {
+    "id": 7,
+    "name": "چلو جوجه کباب",
+    "category_name": "کباب",
+    "category_id": 4,
+    "price": "۶۰٬۰۰۰ ",
+    "cooker": "مامان نف  الناز",
+    "rate": "۳٫۰۸",
+    "sell": "۲",
+    "img": "https://mamanpaz.netlify.app/img/Foods/%D8%AC%D9%88%D8%AC%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8.jpg"
+  },
+  {
+    "id": 8,
+    "name": "چلو جوجه کباب",
+    "category_name": "کباب",
+    "category_id": 4,
+    "price": "۱۰۷٬۰۰۰ ",
+    "cooker": "مامان  الناز",
+    "rate": "۴٫۱",
+    "sell": "۲",
+    "img": "https://mamanpaz.netlify.app/img/Foods/%D8%AC%D9%88%D8%AC%D9%87-%DA%A9%D8%A8%D8%A7%D8%A8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "سالاد فصل",
+    "category_name": "سالاد",
+    "category_id": 5,
+    "price": "۲۲٬۰۰۰ ",
+    "cooker": "مامان  الناز",
+    "rate": "۴٫۱",
+    "sell": "۲",
+    "img": "https://mamanpaz.netlify.app/img/Foods/%D8%B3%D8%A7%D9%84%D8%A7%D8%AF-%D9%81%D8%B5%D9%84.jpg"
+  },
+  {
+    "id": 10,
+    "name": "سالاد شیرازی",
+    "category_name": "سالاد",
+    "category_id": 5,
+    "price": "۲۸٬۰۰۰ ",
+    "cooker": "مامان  تاچ ماه",
+    "rate": "۳٫۱",
+    "sell": "۱",
+    "img": "https://mamanpaz.netlify.app/img/Foods/%D8%B3%D8%A7%D9%84%D8%A7%D8%AF-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2%DB%8C.jpg"
+  }
+]
